@@ -1,0 +1,35 @@
+[
+    {
+        "consignee":"小朱",
+        "fullAddress":"北京市朝阳区天坛公园东50米",
+        "id":0,
+        "phoneNum":"12345678910",
+        "isDefault":"0",
+        "provinceId":1,
+        "regionId":1,
+        "userAddress":"北京市朝阳区天坛公园东50米",
+        "userId":2
+    },
+    {
+        "consignee":"小宇",
+        "fullAddress":"上海市静安区火车站站前公园地铁口",
+        "id":1,
+        "phoneNum":"19876543210",
+        "isDefault":"0",
+        "provinceId":1,
+        "regionId":1,
+        "userAddress":"上海市静安区火车站站前公园地铁口",
+        "userId":3
+    },
+    {
+        "consignee":"小通",
+        "fullAddress":"沈阳市皇姑区北塔公园西30米处茶百道",
+        "id":2,
+        "phoneNum":"14785236900",
+        "isDefault":"1",
+        "provinceId":1,
+        "regionId":1,
+        "userAddress":"沈阳市皇姑区北塔公园西30米处茶百道",
+        "userId":4
+    }
+]
